@@ -2,4 +2,5 @@ fastapi
 uvicorn[standard]
 anthropic[mcp]
 mcp
+httpx
 python-dotenv
